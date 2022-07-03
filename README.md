@@ -1,5 +1,5 @@
 # scd1_informatica
-# Project-2-Loading-Customer-Details-Using-Informatica
+#Loading-Customer-Details-Using-Informatica
 
 
 ### Source File Data Snip
