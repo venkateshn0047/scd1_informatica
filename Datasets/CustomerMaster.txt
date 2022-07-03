@@ -1,0 +1,6 @@
+﻿BusinessEntityID	Title	FirstName	MiddleName	LastName	Suffix	PhoneNumber	PhoneNumberType	EmailAddress	EmailPromotion	AddressType	AddressLine1	AddressLine2	City	StateProvinceName	PostalCode	CountryRegionName
+1	Mr.	David	R.	Robinett	NULL	238-555-0100	Home	david22@adventure-works.com	1	Home	Pappelallee 6667	NULL	Solingen	Nordrhein-Westfalen	42651	Germany
+2	Ms.	Rebecca	A.	Robinson	NULL	648-555-0100	Cell	rebecca3@adventure-works.com	0	Home	1861 Chinquapin Ct	NULL	Seaford	Victoria	3198	Australia
+3	Ms.	Dorothy	B.	Robinson	NULL	423-555-0100	Cell	dorothy3@adventure-works.com	2	Home	4693 Mills Dr.	NULL	Geelong	Victoria	3220	Australia
+3	Ms.	David	B.	Old_record	NULL	423-555-0100	Cell	dorothy3@adventure-works.com	2	Home	4693 Mills Dr.	NULL	Geelong	Victoria	3220	Australia
+6	Ms.	Subhash	B.	New_record	NULL	423-555-0100	Cell	dorothy3@adventure-works.com	2	Home	4693 Mills Dr.	NULL	Geelong	Victoria	3220	Australia
