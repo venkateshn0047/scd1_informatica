@@ -28,7 +28,3 @@
 ![Alt text](https://github.com/SubhashMurugesan/Project_2_Loading_Customer_Details_Using_Informatica/blob/main/SCD_01_INFORMATICA/Final_Update_on_db.png?raw=true "Source Dataset")
 
 
-
-### Datasets Folder  [here](https://github.com/SubhashMurugesan/Project_2_Loading_Customer_Details_Using_Informatica/tree/main/Datasets)
-
-* In this folder we can get the Initial Dataset
